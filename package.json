@@ -16,6 +16,7 @@
     "codegen": "graphql-codegen"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.4",
     "@graphql-codegen/cli": "^2.16.4",
     "@graphql-codegen/schema-ast": "^2.6.1",
     "@graphql-codegen/typescript": "^2.8.7",
