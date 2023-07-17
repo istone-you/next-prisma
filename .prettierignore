@@ -2,4 +2,6 @@ node_modules
 .next
 package-lock.json
 public
+src/generated/*.ts
+src/generated/*.graphqlß
 ```
